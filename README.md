@@ -1,2 +1,2 @@
-# cursor-position-memento.vim
-Memorize previous cursor position in tab
+# cursor-position-memento.vim  
+Memorize cursor position  
